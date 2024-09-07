@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 NNI(variable=topology,num_tried_current=0,num_tried_total=0,num_accepted_current=0,num_accepted_total=0,tuning_value=nan)
 SubtreePruneRegraft(variable=topology,num_tried_current=0,num_tried_total=0,num_accepted_current=0,num_accepted_total=0,tuning_value=nan)
 Scaling(variable=tree_length,num_tried_current=0,num_tried_total=0,num_accepted_current=0,num_accepted_total=0,tuning_value=1)
@@ -6,12 +5,3 @@ BetaSimplex(variable=rel_br_lengths,num_tried_current=0,num_tried_total=0,num_ac
 DirichletSimplex(variable=rel_br_lengths,num_tried_current=0,num_tried_total=0,num_accepted_current=0,num_accepted_total=0,tuning_value=1)
 Scaling(variable=rate_log_sd,num_tried_current=0,num_tried_total=0,num_accepted_current=0,num_accepted_total=0,tuning_value=1)
 Scaling(variable=rate_neo,num_tried_current=0,num_tried_total=0,num_accepted_current=0,num_accepted_total=0,tuning_value=1)
-=======
-NNI(variable=topology,num_tried_current=169933,num_tried_total=185010,num_accepted_current=53006,num_accepted_total=57957,tuning_value=nan)
-SubtreePruneRegraft(variable=topology,num_tried_current=34052,num_tried_total=37022,num_accepted_current=2063,num_accepted_total=2278,tuning_value=nan)
-Scaling(variable=tree_length,num_tried_current=33614,num_tried_total=36586,num_accepted_current=15391,num_accepted_total=16780,tuning_value=1.42079)
-BetaSimplex(variable=rel_br_lengths,num_tried_current=338713,num_tried_total=368606,num_accepted_current=150598,num_accepted_total=164234,tuning_value=0.767379)
-DirichletSimplex(variable=rel_br_lengths,num_tried_current=33998,num_tried_total=37019,num_accepted_current=13367,num_accepted_total=14026,tuning_value=45.2389)
-Scaling(variable=rate_log_sd,num_tried_current=32948,num_tried_total=35964,num_accepted_current=15141,num_accepted_total=16326,tuning_value=0.415815)
-Scaling(variable=rate_neo,num_tried_current=32742,num_tried_total=35793,num_accepted_current=14625,num_accepted_total=16192,tuning_value=3.20645)
->>>>>>> 988e302 (MCMCMC output files)
